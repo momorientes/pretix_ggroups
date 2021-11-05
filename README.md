@@ -17,5 +17,6 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
+export PRETIX_API_TOKEN=<your API token>
 ./pretix_ggroups.py > attendees.csv
 ```
