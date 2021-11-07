@@ -10,7 +10,7 @@ To circumvent this one can use google groups to send out bulk-emails, this scrip
 
 ```bash
 python3 -m venv venv
-source venv bin activiate
+source venv/bin/activiate
 pip install -r requirements.txt
 ```
 
